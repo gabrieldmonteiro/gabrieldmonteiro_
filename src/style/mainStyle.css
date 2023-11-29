@@ -1,25 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
 
-* {
-    color: white
-}
-
-body {
+.mainStyle {
+    font-family: 'Roboto Mono', monospace;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
 }
 
-h1 {
+.mainStyle .container {
+    text-align: center;
+}
+
+
+.mainStyle h1 {
     font-size: 4.5em;
-    font-family: 'Roboto Mono', monospace;
+    color: white;
 }
 
-h3 {
-    font-size: 1em;
-    font-family: 'Roboto Mono', monospace;
+.mainStyle h3 {
     color: rgb(133, 133, 133);
+    font-size: 1em;
 }

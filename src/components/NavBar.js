@@ -1,9 +1,10 @@
-import {Link} from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import '../style/navBar.css'
 
 const NavBar = () => {
-    return (
-        <div>
+    return (<>
+
+        <div className='navStyle'>
             <nav>
                 <ul>
                     <li>
@@ -14,7 +15,8 @@ const NavBar = () => {
                     </li>
                 </ul>
             </nav>
-        </div>
+        </div>        
+    </>
     )
 }
 
