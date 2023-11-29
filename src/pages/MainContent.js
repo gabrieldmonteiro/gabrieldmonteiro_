@@ -13,12 +13,16 @@ const MainContent = () => {
     }, [])
 
     return (
-        <div>       
-            <Particles options={particlesOptions} init={particlesInit}/>    
-            <NavBar/>
-            <h1>gabrieldmonteiro</h1>
-            <h3>A page to showcase my projects.</h3>
-        </div>
+        <>
+            <div className='mainStyle'>
+                <div class="container">
+                    <NavBar />
+                    <Particles options={particlesOptions} init={particlesInit} />
+                    <h1>gabrieldmonteiro</h1>
+                    <h3>A page to showcase my projects.</h3>
+                </div>
+            </div>
+        </>
     )
 }
 
