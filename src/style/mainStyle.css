@@ -23,3 +23,9 @@
     color: rgb(133, 133, 133);
     font-size: 1em;
 }
+
+.prevent-select {
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+  }

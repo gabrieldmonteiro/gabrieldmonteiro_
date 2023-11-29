@@ -18,8 +18,8 @@ const MainContent = () => {
                 <div class="container">
                     <NavBar />
                     <Particles options={particlesOptions} init={particlesInit} />
-                    <h1>gabrieldmonteiro</h1>
-                    <h3>A page to showcase my projects.</h3>
+                    <h1 className='prevent-select'>gabrieldmonteiro</h1>
+                    <h3 className='prevent-select'>A page to showcase my projects.</h3>
                 </div>
             </div>
         </>
