@@ -8,10 +8,10 @@ const NavBar = () => {
             <nav>
                 <ul>
                     <li>
-                        <Link to="/Projects">Projects</Link>
+                        <Link to="/gabrieldmonteiro_/Projects">Projects</Link>
                     </li>
                     <li>
-                        <Link to="/Contact">Contact</Link>
+                        <Link to="/gabrieldmonteiro_/Contact">Contact</Link>
                     </li>
                 </ul>
             </nav>
