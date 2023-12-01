@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gabrieldmonteiro_/static/css/main.8690bd3f.css",
-    "main.js": "/gabrieldmonteiro_/static/js/main.fd69b472.js",
+    "main.css": "/gabrieldmonteiro_/static/css/main.cae21fa4.css",
+    "main.js": "/gabrieldmonteiro_/static/js/main.53efefb4.js",
     "index.html": "/gabrieldmonteiro_/index.html",
-    "main.8690bd3f.css.map": "/gabrieldmonteiro_/static/css/main.8690bd3f.css.map",
-    "main.fd69b472.js.map": "/gabrieldmonteiro_/static/js/main.fd69b472.js.map"
+    "main.cae21fa4.css.map": "/gabrieldmonteiro_/static/css/main.cae21fa4.css.map",
+    "main.53efefb4.js.map": "/gabrieldmonteiro_/static/js/main.53efefb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.8690bd3f.css",
-    "static/js/main.fd69b472.js"
+    "static/css/main.cae21fa4.css",
+    "static/js/main.53efefb4.js"
   ]
 }
