@@ -1,0 +1,41 @@
+.contact-mainStyle {
+    background-color: #000000;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23484848' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+    color: white;
+    margin: 0;    
+    font-family: "Roboto Mono", monospace;    
+    height: 100%;
+  }
+  main {
+    padding: 20px;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-content h1 {
+    margin: 10;
+  }
+  
+  .header-content span {
+    float: left !important;
+    margin-right: 40%;
+    margin-left: 3%;
+    border: solid white 1px;
+    padding: 10px;
+  }
+  
+  #back-arrow {  
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  

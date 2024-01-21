@@ -1,5 +1,5 @@
 import React, { useCallback } from 'react';
-import '../style/mainStyle.css'
+import '../style/mainPageStyle.css'
 import NavBar from '../components/NavBar'
 import Particles from "react-particles";
 import { loadFull } from "tsparticles";
