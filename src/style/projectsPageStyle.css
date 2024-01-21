@@ -5,6 +5,7 @@
   margin: 0;
   display: grid;
   font-family: "Roboto Mono", monospace;
+  height: 100%;
 }
 main {
   padding: 20px;

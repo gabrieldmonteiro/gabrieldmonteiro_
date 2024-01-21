@@ -3,19 +3,19 @@
       "id": 1,
       "name": "Github",      
       "url": "https://github.com/gabrieldmonteiro",
-      "image": ""
+      "image": "https://github.com/gabrieldmonteiro/gabrieldmonteiro_/blob/main/src/img/github-mark-white.png?raw=true"
     },
   
     {
       "id": 2,
       "name": "LinkedIn",      
       "url": "https://www.linkedin.com/in/gabrieldmonteiro/",
-      "image": ""
+      "image": "https://github.com/gabrieldmonteiro/gabrieldmonteiro_/blob/main/src/img/LI-In-Bug.png?raw=true"
     },
     {
       "id": 3,
       "name": "Email",      
       "url": "mailto:gabrieldmonteiro@live.com",
-      "image": ""
+      "image": "https://icons.veryicon.com/png/o/miscellaneous/linear-icon-18/email-142.png"
     }
 ]

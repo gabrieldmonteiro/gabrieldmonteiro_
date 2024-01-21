@@ -1,46 +1,16 @@
 [
   {
     "id": 1,
-    "name": "DevRadar",
-    "description": "Application that shows the location of developers who share the same interests, knowledge and programming languages! [Techs used: NodeJS, React, React-Native]",
+    "name": "Dev Radar",
+    "description": "Project using PIL library (Python Image Library), a package that has many functions to manipulate images from a Python script, to create generative arts, those that are generated from an autonomous system and that nowadays do a lot success in some NFT marketplaces like OpenSea",
     "url": "https://github.com/gabrieldmonteiro/DevRadar/",
-    "image": "https://media.licdn.com/dms/image/C5622AQFpNIYOYptlTA/feedshare-shrink_1280/0/1646064513406?e=1708560000&v=beta&t=f9UofpY3EMQVm176DhQMINz3UOmvDSxp2Cw-Q--JAKw"
+    "image": "https://github.com/gabrieldmonteiro/DevRadar/blob/master/screenshots/02.jpeg?raw=true"
   },
-
   {
     "id": 2,
     "name": "NFT ART",
-    "description": "Project using PIL library (Python Image Library), a package that has many functions to manipulate images from a Python script, to create generative arts, those that are generated from an autonomous system and that nowadays do a lot success in some NFT marketplaces like OpenSea",
-    "url": "https://github.com/gabrieldmonteiro/DevRadar/",
-    "image": "https://github.com/gabrieldmonteiro/DevRadar/blob/master/screenshots/02.jpeg?raw=true"
-  },
-  {
-    "id": 3,
-    "name": "DevRadar",
     "description": "Application that shows the location of developers who share the same interests, knowledge and programming languages! [Techs used: NodeJS, React, React-Native]",
     "url": "https://github.com/gabrieldmonteiro/DevRadar/",
     "image": "https://media.licdn.com/dms/image/C5622AQFpNIYOYptlTA/feedshare-shrink_1280/0/1646064513406?e=1708560000&v=beta&t=f9UofpY3EMQVm176DhQMINz3UOmvDSxp2Cw-Q--JAKw"
-  },
-  {
-    "id": 4,
-    "name": "DevRadar",
-    "description": "Application that shows the location of developers who share the same interests, knowledge and programming languages! [Techs used: NodeJS, React, React-Native]",
-    "url": "https://github.com/gabrieldmonteiro/DevRadar/",
-    "image": "https://github.com/gabrieldmonteiro/DevRadar/blob/master/screenshots/02.jpeg?raw=true"
-  },
-
-  {
-    "id": 5,
-    "name": "NFT ART",
-    "description": "Project using PIL library (Python Image Library), a package that has many functions to manipulate images from a Python script, to create generative arts, those that are generated from an autonomous system and that nowadays do a lot success in some NFT marketplaces like OpenSea",
-    "url": "https://github.com/gabrieldmonteiro/DevRadar/",
-    "image": "https://media.licdn.com/dms/image/C5622AQFpNIYOYptlTA/feedshare-shrink_1280/0/1646064513406?e=1708560000&v=beta&t=f9UofpY3EMQVm176DhQMINz3UOmvDSxp2Cw-Q--JAKw"
-  },
-  {
-    "id": 6,
-    "name": "DevRadar",
-    "description": "Application that shows the location of developers who share the same interests, knowledge and programming languages! [Techs used: NodeJS, React, React-Native]",
-    "url": "https://github.com/gabrieldmonteiro/DevRadar/",
-    "image": "https://github.com/gabrieldmonteiro/DevRadar/blob/master/screenshots/02.jpeg?raw=true"
   }
 ]
