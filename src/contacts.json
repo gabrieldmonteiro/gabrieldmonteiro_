@@ -16,12 +16,12 @@
       "id": 3,
       "name": "Email",      
       "url": "mailto:gabrieldmonteiro@live.com",
-      "image": "src/img/email.svg"
+      "image": "https://github.com/gabrieldmonteiro/gabrieldmonteiro_/blob/main/src/img/email.svg"
     },
     {
       "id": 4,
       "name": "Resume",      
-      "url": "src/doc/GabrielDMonteiro_Resume.pdf",
-      "image": "src/img/resume.svg"
+      "url": "",
+      "image": "https://github.com/gabrieldmonteiro/gabrieldmonteiro_/blob/main/src/img/resume.svg"
     }
 ]
