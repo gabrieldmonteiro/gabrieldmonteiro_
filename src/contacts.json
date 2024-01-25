@@ -3,25 +3,25 @@
       "id": 1,
       "name": "Github",      
       "url": "https://github.com/gabrieldmonteiro",
-      "image": "https://github.com/gabrieldmonteiro/gabrieldmonteiro_/blob/main/src/img/github-mark-white.png?raw=true"
+      "image": "https://raw.githubusercontent.com/gabrieldmonteiro/gabrieldmonteiro_/main/src/img/github.png"
     },
   
     {
       "id": 2,
       "name": "LinkedIn",      
       "url": "https://www.linkedin.com/in/gabrieldmonteiro/",
-      "image": "https://github.com/gabrieldmonteiro/gabrieldmonteiro_/blob/main/src/img/LI-In-Bug.png?raw=true"
+      "image": "https://raw.githubusercontent.com/gabrieldmonteiro/gabrieldmonteiro_/main/src/img/linkedin.png"
     },
     {
       "id": 3,
       "name": "Email",      
       "url": "mailto:gabrieldmonteiro@live.com",
-      "image": "https://github.com/gabrieldmonteiro/gabrieldmonteiro_/blob/main/src/img/email.jpg"
+      "image": "https://raw.githubusercontent.com/gabrieldmonteiro/gabrieldmonteiro_/main/src/img/email.png"
     },
     {
       "id": 4,
       "name": "Resume",      
-      "url": "a",
+      "url": "PDF",
       "image": "https://raw.githubusercontent.com/gabrieldmonteiro/gabrieldmonteiro_/main/src/img/resume.png"
     }
 ]

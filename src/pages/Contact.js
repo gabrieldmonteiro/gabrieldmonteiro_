@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import ContactCard from "../components/ContactCard";
 import "../style/contactPageStyle.css";
+import PDF from "../doc/GabrielDMonteiro_Resume.pdf"
 
 function Contact() {
   const contacts = require("../contacts.json");
@@ -27,7 +28,7 @@ function Contact() {
                key={contact.id}
                image={contact.image}
                name={contact.name}             
-               url={contact.url}
+               url={contact.url!=="PDF"? contact.url : PDF}
              />
             ))}
           </section>
