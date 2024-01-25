@@ -1,14 +1,14 @@
 import React from "react";
-import '../style/cardsStyle.css'
+import '../style/projectCardStyle.css'
 
-const Card = (props) => {
+const ProjectCard = (props) => {
   return (
     <div className="card">
       <div>
         <p><b>{props.name}</b></p>      
       </div>
       <div>
-        <img alt="" className="card-image" src={props.image}></img>
+        <img alt="" className="card-project-image" src={props.image}></img>
       </div>
       <div>        
         <p>{props.description}</p>
@@ -20,4 +20,4 @@ const Card = (props) => {
   );
 };
 
-export default Card;
+export default ProjectCard;

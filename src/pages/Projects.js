@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from 'react-router-dom'
-import Card from "../components/Card";
+import ProjectCard from "../components/ProjectCard";
 import "../style/projectsPageStyle.css";
 
 function Projects() {
@@ -17,7 +17,7 @@ function Projects() {
         <main>
           <section class="grid">
             {projects.map((project) => (
-               <Card
+               <ProjectCard
                key={project.id}
                name={project.name}
                description={project.description}
