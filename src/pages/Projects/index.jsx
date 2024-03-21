@@ -1,10 +1,10 @@
 import React from "react";
 import { Link } from 'react-router-dom'
-import ProjectCard from "../components/ProjectCard";
-import "../style/projectsPageStyle.css";
+import ProjectCard from "../../components/ProjectCard";
+import "../../style/projectsPageStyle.css";
 
 function Projects() {
-  const projects = require("../projects.json");
+  const projects = require("../../projects.json");
   return (
     <>    
       <div className="projects-mainStyle">

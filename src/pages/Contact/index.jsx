@@ -1,11 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import ContactCard from "../components/ContactCard";
-import "../style/contactPageStyle.css";
-import PDF from "../doc/GabrielDMonteiro_Resume.pdf"
+import ContactCard from "../../components/ContactCard";
+import "../../style/contactPageStyle.css";
+import PDF from "../../doc/GabrielDMonteiro_Resume.pdf"
 
 function Contact() {
-  const contacts = require("../contacts.json");
+  const contacts = require("../../contacts.json");
   return (
     <>    
       <div className="contact-mainStyle">        

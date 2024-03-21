@@ -1,9 +1,9 @@
 import React, { useCallback } from 'react';
-import '../style/mainPageStyle.css'
-import NavBar from '../components/NavBar'
+import '../../style/mainPageStyle.css'
+import NavBar from '../../components/NavBar'
 import Particles from "react-particles";
 import { loadFull } from "tsparticles";
-import particlesOptions from "../particles.json";
+import particlesOptions from "../../particles.json";
 
 
 

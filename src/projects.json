@@ -2,15 +2,64 @@
   {
     "id": 1,
     "name": "Dev Radar",
-    "description": "Application that shows the location of developers who share the same interests, knowledge and programming languages! [Techs used: NodeJS, React, React-Native]",
+    "description": "Application that shows the location of developers who share the same interests, knowledge and programming languages! [Techs used: NodeJS, React, React-Native] - Application that shows the location of developers who share the same interests, knowledge and programming languages! [Techs used: NodeJS, React, React-Native]",
     "url": "https://github.com/gabrieldmonteiro/DevRadar/",
-    "image": "https://github.com/gabrieldmonteiro/DevRadar/blob/master/screenshots/dev-radar-image.png?raw=true"
+    "image": "https://raw.githubusercontent.com/gabrieldmonteiro/DevRadar/master/screenshots/dev-radar-image.png"
   },
   {
     "id": 2,
     "name": "NFT ART",
-    "description": "Project using PIL library (Python Image Library), a package that has many functions to manipulate images from a Python script, to create generative arts, those that are generated from an autonomous system and that nowadays do a lot success in some NFT marketplaces like OpenSea",
+    "description": "Project using PIL library, to create generative arts (NFT arts)",
     "url": "https://github.com/gabrieldmonteiro/DevRadar/",
     "image": "https://raw.githubusercontent.com/gabrieldmonteiro/nft_art/main/images/nft_art_project.jpg"
+  },
+  {
+    "id": 3,
+    "name": "COVID-19 Tracker",
+    "description": "Application to monitor the cases of COVID-19 around the world",
+    "url": "https://github.com/gabrieldmonteiro/covid-19",
+    "image": "https://raw.githubusercontent.com/gabrieldmonteiro/covid-19/master/covid-19-tracker-image.jpg"
+  },
+  {
+    "id": 4,
+    "name": "jsClock",
+    "description": "Clock made with JavaScript that changes the background dynamically",
+    "url": "https://github.com/gabrieldmonteiro/jsClock",
+    "image": "https://raw.githubusercontent.com/gabrieldmonteiro/jsClock/master/screenshots/01.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Currency Converter",
+    "description": "Currency Converter made with VueJs",
+    "url": "https://github.com/gabrieldmonteiro/CurrencyConverter_VueJs",
+    "image": "https://camo.githubusercontent.com/c665bc4a0d1d607896be9e43e3e9a8ce9c4c41e78ffe291d307510ab19c22efa/68747470733a2f2f692e696d6775722e636f6d2f334b51764c7a412e6a7067"
+  },
+  {
+    "id": 6,
+    "name": "Youtube API - Test",
+    "description": "Test project using Youtube API v3",
+    "url": "https://github.com/gabrieldmonteiro/youtubeAPI-Test",
+    "image": "https://raw.githubusercontent.com/gabrieldmonteiro/youtubeAPI-Test/master/youtube-api-project.png"
+  },
+  {
+    "id": 7,
+    "name": "Pomodoro Timer",
+    "description": "Pomodoro Timer using HTML5, CSS3 and JavaScript Vanilla",
+    "url": "https://github.com/gabrieldmonteiro/PomodoroTimer",
+    "image": "https://raw.githubusercontent.com/gabrieldmonteiro/PomodoroTimer/master/pomodoro-timer-image.png"
+  },
+  {
+    "id": 8,
+    "name": "Em caso de Emergencia - Front-End (Responsive)",
+    "description": "Front-End project using only HTML5 and CSS3",
+    "url": "https://github.com/gabrieldmonteiro/WebDev-Emergencia",
+    "image": "https://raw.githubusercontent.com/gabrieldmonteiro/WebDev-Emergencia/master/em-caso-de-emergencia.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Spotify Clone - Front-End",
+    "description": "Front-End project using only HTML5 and CSS3 (Responsive)",
+    "url": "https://github.com/gabrieldmonteiro/SpotifyClone",
+    "image": "https://raw.githubusercontent.com/gabrieldmonteiro/SpotifyClone/master/spotify-clone.png"
   }
 ]
