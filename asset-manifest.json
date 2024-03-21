@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/gabrieldmonteiro_/static/css/main.d7d17332.css",
-    "main.js": "/gabrieldmonteiro_/static/js/main.a7e97b39.js",
+    "main.css": "/gabrieldmonteiro_/static/css/main.21595f0a.css",
+    "main.js": "/gabrieldmonteiro_/static/js/main.38be7139.js",
     "static/media/GabrielDMonteiro_Resume.pdf": "/gabrieldmonteiro_/static/media/GabrielDMonteiro_Resume.a6e5f97c75a79b2c2a22.pdf",
     "index.html": "/gabrieldmonteiro_/index.html",
-    "main.d7d17332.css.map": "/gabrieldmonteiro_/static/css/main.d7d17332.css.map",
-    "main.a7e97b39.js.map": "/gabrieldmonteiro_/static/js/main.a7e97b39.js.map"
+    "main.21595f0a.css.map": "/gabrieldmonteiro_/static/css/main.21595f0a.css.map",
+    "main.38be7139.js.map": "/gabrieldmonteiro_/static/js/main.38be7139.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7d17332.css",
-    "static/js/main.a7e97b39.js"
+    "static/css/main.21595f0a.css",
+    "static/js/main.38be7139.js"
   ]
 }
