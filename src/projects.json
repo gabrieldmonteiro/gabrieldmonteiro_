@@ -2,14 +2,14 @@
   {
     "id": 1,
     "name": "Dev Radar",
-    "description": "Application that shows the location of developers who share the same interests, knowledge and programming languages! [Techs used: NodeJS, React, React-Native] - Application that shows the location of developers who share the same interests, knowledge and programming languages! [Techs used: NodeJS, React, React-Native]",
+    "description": "Application that shows the location of developers who share the same interests, knowledge and programming languages! [Techs used: NodeJS, React, React-Native]",
     "url": "https://github.com/gabrieldmonteiro/DevRadar/",
     "image": "https://raw.githubusercontent.com/gabrieldmonteiro/DevRadar/master/screenshots/dev-radar-image.png"
   },
   {
     "id": 2,
     "name": "NFT ART",
-    "description": "Project using PIL library, to create generative arts (NFT arts)",
+    "description": "Project using PIL library (Python Image Library), a package that has many functions to manipulate images from a Python script, to create generative arts, those that are generated from an autonomous system and that nowadays do a lot success in some NFT marketplaces like OpenSea",
     "url": "https://github.com/gabrieldmonteiro/DevRadar/",
     "image": "https://raw.githubusercontent.com/gabrieldmonteiro/nft_art/main/images/nft_art_project.jpg"
   },

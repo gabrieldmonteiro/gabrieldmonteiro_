@@ -12,7 +12,7 @@ const ProjectCard = (props) => {
         <img alt="" className="card-project-image" src={props.image}></img>
       </div>
       <div className="project-description">        
-        <p>{props.description}</p>
+        {props.description}
       </div>      
       <div className="card-link-div">
         <a href={props.url} className="card-url"><b>Check it out!</b></a>
