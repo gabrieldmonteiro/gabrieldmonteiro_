@@ -14,12 +14,14 @@ const MainContent = () => {
 
     return (
         <>
-            <div className='mainStyle'>
-                <div class="container">
-                    <NavBar />
-                    <Particles options={particlesOptions} init={particlesInit} />
-                    <h1 className='prevent-select'>gabrieldmonteiro</h1>
-                    <h3 className='prevent-select'>A page to showcase my projects.</h3>
+            <div className='responsive-div'>
+                <div className='mainStyle'>
+                    <div class="container">
+                        <NavBar />
+                        <Particles options={particlesOptions} init={particlesInit} />
+                        <h1 className='prevent-select'>gabrieldmonteiro</h1>
+                        <h3 className='prevent-select'>A page to showcase my projects.</h3>
+                    </div>
                 </div>
             </div>
         </>

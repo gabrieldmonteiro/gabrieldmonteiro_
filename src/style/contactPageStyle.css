@@ -39,3 +39,28 @@ main {
   text-decoration: none;
   cursor: pointer;
 }
+
+@media screen and (max-width: 600px) {
+  #back-arrow-span {
+    display: block;
+    margin-right: 2%;
+  }
+
+  h1 {
+    margin-left: 5%;
+  }
+
+  .grid {
+    display: flex;
+    flex-direction: column;        
+  }
+
+  .project-card{    
+    grid-template-rows: repeat(auto-fill, minmax(100px, 1fr));
+    padding: 20px;
+    margin-bottom: 10px;
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+}

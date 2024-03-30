@@ -25,7 +25,18 @@
 }
 
 .prevent-select {
-    -webkit-user-select: none; /* Safari */
-    -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none; /* Standard syntax */
-  }
+    -webkit-user-select: none;
+    /* Safari */
+    -ms-user-select: none;
+    /* IE 10 and IE 11 */
+    user-select: none;
+    /* Standard syntax */
+}
+
+@media screen and (max-width: 700px) {
+    .container {
+        font-size: 2vw;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+}

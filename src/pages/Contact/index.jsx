@@ -10,7 +10,7 @@ function Contact() {
     <>    
       <div className="contact-mainStyle">        
         <div className="header-content">
-          <span>
+          <span id="back-arrow-span">
             <Link
               to="/gabrieldmonteiro_/"
               className="prevent-select"

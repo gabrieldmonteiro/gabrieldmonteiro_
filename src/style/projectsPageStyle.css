@@ -5,8 +5,10 @@
   margin: 0;
   display: grid;
   font-family: "Roboto Mono", monospace;
-  height: auto;
+  height: fit-content;
+  width: fit-content;
 }
+
 main {
   padding: 20px;
 }
@@ -34,8 +36,29 @@ main {
   padding: 10px;
 }
 
-#back-arrow {  
-  color: white;
-  text-decoration: none;
-  cursor: pointer;
+
+
+@media screen and (max-width: 600px) {
+  #back-arrow-span {
+    display: block;
+    margin-right: 2%;
+  }
+
+  h1 {
+    margin-left: 5%;
+  }
+
+  .grid {
+    display: flex;
+    flex-direction: column;        
+  }
+
+  .project-card{    
+    grid-template-rows: repeat(auto-fill, minmax(100px, 1fr));
+    padding: 20px;
+    margin-bottom: 10px;
+    width: 100%;
+    overflow-x: hidden;
+  }
+
 }
