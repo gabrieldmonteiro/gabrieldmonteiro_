@@ -1,5 +1,12 @@
 [
   {
+    "id": 0,
+    "name": "CRUD - Java + Spring + MongoDB",
+    "description": "CRUD project using Java + Spring and MongoDB",
+    "url": "https://github.com/gabrieldmonteiro/CRUD_Java_Spring_Mongo",
+    "image": "https://github.com/gabrieldmonteiro/CRUD_Java_Spring_Mongo/blob/main/screenshots/post.jpg?raw=true"
+  },
+  {
     "id": 1,
     "name": "Dev Radar",
     "description": "Application that shows the location of developers who share the same interests, knowledge and programming languages! [Techs used: NodeJS, React, React-Native]",
