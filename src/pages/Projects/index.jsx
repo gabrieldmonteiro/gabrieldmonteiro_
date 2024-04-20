@@ -16,7 +16,7 @@ function Projects() {
         </div>
         <main>
           <div class="grid">
-            {projects.map((project) => (
+            {projects.toReversed().map((project) => (
               <ProjectCard class="project-card"
                 key={project.id}
                 name={project.name}
