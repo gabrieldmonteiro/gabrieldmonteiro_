@@ -71,5 +71,12 @@
      "description": "CRUD project using Java + Spring and MongoDB",
      "url": "https://github.com/gabrieldmonteiro/CRUD_Java_Spring_Mongo",
      "image": "https://github.com/gabrieldmonteiro/CRUD_Java_Spring_Mongo/blob/main/screenshots/post.jpg?raw=true"
-   }
+   },
+   {
+    "id": 10,
+    "name": "S21",
+    "description": "Personal project using Python Tkinter, Pandas and OpenPyXL",
+    "url": "https://github.com/gabrieldmonteiro/S21_script/",
+    "image": "https://raw.githubusercontent.com/gabrieldmonteiro/S21_script/main/screenshot.jpg"
+  }
  ]
