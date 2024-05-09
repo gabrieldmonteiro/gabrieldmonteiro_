@@ -78,5 +78,12 @@
     "description": "Personal project using Python Tkinter, Pandas and OpenPyXL",
     "url": "https://github.com/gabrieldmonteiro/S21_script/",
     "image": "https://raw.githubusercontent.com/gabrieldmonteiro/S21_script/main/screenshot.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Websites - Monitor",
+    "description": "GoLang Project to monitore the status of a list of websites",
+    "url": "https://github.com/gabrieldmonteiro/website-monitor",
+    "image": "https://raw.githubusercontent.com/gabrieldmonteiro/website-monitor/main/screenshots/website-monitor_monitoring.png"
   }
  ]
