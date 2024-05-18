@@ -92,12 +92,5 @@
    "description": "Project to test audio - Alpine.js",
    "url": "https://github.com/gabrieldmonteiro/audio-test",
    "image": "https://raw.githubusercontent.com/gabrieldmonteiro/audio-test/main/assets/screenshot.png"
-  },
-  {
-    "id": 13,
-    "name": "Audio-Test2",
-    "description": "Project to test audio - Alpine.js",
-    "url": "https://github.com/gabrieldmonteiro/audio-test",
-    "image": "https://raw.githubusercontent.com/gabrieldmonteiro/audio-test/main/assets/screenshot.png"
   }
  ]
