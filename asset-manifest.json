@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gabrieldmonteiro_/static/css/main.8470d828.css",
-    "main.js": "/gabrieldmonteiro_/static/js/main.d765ff40.js",
+    "main.js": "/gabrieldmonteiro_/static/js/main.ae682209.js",
     "static/media/GabrielDMonteiro_Resume.pdf": "/gabrieldmonteiro_/static/media/GabrielDMonteiro_Resume.f2d99ea9edbde82845c2.pdf",
     "index.html": "/gabrieldmonteiro_/index.html",
     "main.8470d828.css.map": "/gabrieldmonteiro_/static/css/main.8470d828.css.map",
-    "main.d765ff40.js.map": "/gabrieldmonteiro_/static/js/main.d765ff40.js.map"
+    "main.ae682209.js.map": "/gabrieldmonteiro_/static/js/main.ae682209.js.map"
   },
   "entrypoints": [
     "static/css/main.8470d828.css",
-    "static/js/main.d765ff40.js"
+    "static/js/main.ae682209.js"
   ]
 }
