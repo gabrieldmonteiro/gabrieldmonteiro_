@@ -3,7 +3,7 @@ name: Build and Deploy Test
 on:
   push:
     paths:
-      - 'x.json'
+      - 'projects.json'
     branches:
       - main
 
