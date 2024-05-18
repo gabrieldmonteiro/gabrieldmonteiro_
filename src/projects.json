@@ -86,9 +86,16 @@
     "url": "https://github.com/gabrieldmonteiro/website-monitor",
     "image": "https://raw.githubusercontent.com/gabrieldmonteiro/website-monitor/main/screenshots/website-monitor_monitoring.png"
   },
-   {
-    "id": 12,
-    "name": "Audio-Test",
+  {
+   "id": 12,
+   "name": "Audio-Test",
+   "description": "Project to test audio - Alpine.js",
+   "url": "https://github.com/gabrieldmonteiro/audio-test",
+   "image": "https://raw.githubusercontent.com/gabrieldmonteiro/audio-test/main/assets/screenshot.png"
+  },
+  {
+    "id": 13,
+    "name": "Audio-Test2",
     "description": "Project to test audio - Alpine.js",
     "url": "https://github.com/gabrieldmonteiro/audio-test",
     "image": "https://raw.githubusercontent.com/gabrieldmonteiro/audio-test/main/assets/screenshot.png"
