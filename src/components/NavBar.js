@@ -8,10 +8,10 @@ const NavBar = () => {
             <nav>
                 <ul>
                     <li>
-                        <Link to="/gabrieldmonteiro_/Projects" className='prevent-select'>Projects</Link>
+                        <Link to="/gabrieldmonteiro_/projects" className='prevent-select'>Projects</Link>
                     </li>
                     <li>
-                        <Link to="/gabrieldmonteiro_/Contact" className='prevent-select'>Contact</Link>
+                        <Link to="/gabrieldmonteiro_/contact" className='prevent-select'>Contact</Link>
                     </li>
                 </ul>
             </nav>
