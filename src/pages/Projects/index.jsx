@@ -6,7 +6,7 @@ import "../../style/projectsPageStyle.css";
 function Projects() {
   const projects = require("../../projects.json");
   return (
-    <>
+    <>  
       <div className="projects-mainStyle">
         <div className="header-content">
           <span id="back-arrow-span">
